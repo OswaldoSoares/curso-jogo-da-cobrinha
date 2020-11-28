@@ -1,1 +1,1 @@
-# curso-jogo-da-cobrinha
+# Curso - Digital Innovation One - Jogo da Cobrinha
